@@ -166,11 +166,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // 打字机效果
     const stringArray = [
-        "欢迎来到我的主页",
-        "Welcome to my homepage",
+        "欢迎来到我的主页!",
+        "一切的开始",
         "一个热爱生活的人",
-        "联系我吧",
-        "A person who loves life"
     ];
     let switch_box = document.getElementById('switch-box');
     let index = 0;
