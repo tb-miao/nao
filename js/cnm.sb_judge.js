@@ -5,5 +5,3 @@ $(document).ready(function(){
 function closeWebNotice() {
     document.querySelector('.web_notice').remove();
 };
-
-
